@@ -1,0 +1,9 @@
+{
+  "name": "mando-test-repo",
+  "version": "0.0.0",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "private": true,
+  "dependencies": {}
+}
